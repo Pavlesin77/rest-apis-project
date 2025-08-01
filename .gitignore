@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+*.iml
+instance/
+*.db
+migrations/__pycache__/
+migrations/versions/__pycache__/
+test.py
+help.py
+flasksmorest.py
+
+
