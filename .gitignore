@@ -6,6 +6,7 @@ __pycache__/
 *.iml
 instance/
 *.db
+!instance/data.db
 migrations/__pycache__/
 migrations/versions/__pycache__/
 test.py
